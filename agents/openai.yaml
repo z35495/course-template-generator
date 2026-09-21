@@ -1,0 +1,4 @@
+interface:
+  display_name: "Course Template Generator"
+  short_description: "Generate week-based learning templates from a course workbook"
+  default_prompt: "Use the course template generator workflow to create one populated template per activity row from the supplied workbook and templates."
